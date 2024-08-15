@@ -21,8 +21,10 @@ Lastly, I created this for fun and as a reference for my juniors if they ever wa
 ## How I Run
 1. Open a terminal inside the directory.
 2. Run the following command:
+   
    ```
    php -S localhost:8888 -t public
+   
 3. Open your browser and load localhost:8888.
 4. Open your favorite code editor in the directory.
 5. Enjoy learning!
