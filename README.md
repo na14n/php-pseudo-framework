@@ -24,7 +24,6 @@ Lastly, I created this for fun and as a reference for my juniors if they ever wa
    
    ```
    php -S localhost:8888 -t public
-   
 3. Open your browser and load localhost:8888.
 4. Open your favorite code editor in the directory.
 5. Enjoy learning!
