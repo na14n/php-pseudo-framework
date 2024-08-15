@@ -1,0 +1,13 @@
+/* This is file-specific CSS or page-specific CSS imported using page_styles*/
+/* To add file-specific CSS, create a page_styles array within a view file */
+/* and specify the CSS file path. Please put the page-specific CSS files */
+/* within the styles Folder for the auto-loader. */
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100dvh;
+}

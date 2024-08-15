@@ -1,0 +1,23 @@
+/* All CSS Classes added in globals.css is accessible to the whole project */
+/* To add file-specific CSS, create a page_styles array within a view file */
+/* and specify the CSS file path. Please put the page-specific CSS files */
+/* within the styles Folder for the auto-loader. */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+* {
+  padding: 0vh;
+  margin: 0vh;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.test {
+  border: red 1px solid;
+}
